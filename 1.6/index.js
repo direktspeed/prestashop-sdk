@@ -1,5 +1,5 @@
 // external dependencies
-var Presta = require(__dirname+'/presta');
+var Presta = require(__dirname+'/api');
 
 function init(connection) {
   console.log(connection);
