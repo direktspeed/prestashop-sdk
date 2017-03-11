@@ -1,5 +1,5 @@
 // external dependencies
-var Presta = require(__dirname+'/api');
+var Presta = require('prestashop-sdk-16');
 
 function init(connection) {
   console.log(connection);
