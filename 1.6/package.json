@@ -1,9 +1,9 @@
-  "name": "prestashop-sdk",
+  "name": "prestashop-sdk-16",
   "version": "0.2.2",
   "description": "use the Prestashop Admin Api via NODE.JS",
   "main": "index.js",
   "scripts": {
-    "build": "babel 1.6/presta.js --out-file 1.6/presta.cjs.js",
+    "build": "babel presta.js --out-file presta.cjs.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
