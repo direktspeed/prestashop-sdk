@@ -10,7 +10,7 @@
   "dependencies": {
     "bluebird": "3.5.0",
     "qs": "6.5.1",
-    "request-promise": "4.2.1",
+    "request-promise": "4.2.2",
     "xml2js": "0.4.19"
   },
   "author": "Frank Lemanschik <frank@dspeed.eu>",
